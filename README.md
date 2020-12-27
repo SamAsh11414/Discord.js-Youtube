@@ -1,5 +1,5 @@
 # Discord.js-Youtube
 
-# Part 1
+This is a project this is being worked on for our youtube channel: 
 
-This is the code done in the first episode!
+https://www.youtube.com/channel/UC8bTi2VnE5En2VHMJiDuX1g
